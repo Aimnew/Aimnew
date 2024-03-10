@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/suvorika/" target="_blank">I'm new</a> 
+<h1 align="center">Hi there, <a href="https://github.com/suvorika/" target="_blank">I'm new</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="50"/></h1>
 <h3 align="center">I started learning programming and i'm from Russia 🇷🇺</h3><div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> 
